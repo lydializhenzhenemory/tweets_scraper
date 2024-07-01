@@ -1,0 +1,6 @@
+# Ignore dataset files
+*.csv
+*.json
+*.parquet
+*.xlsx
+path/to/your/large_dataset_directory/
