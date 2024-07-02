@@ -1,4 +1,4 @@
-# Tweet Scraping Project
+# Tweets Scraping Project
 
 This project focuses on scraping and analyzing tweets related to various topics. The datasets used in this project are sourced from publicly available repositories and archives. Below, you will find details about the datasets used in the project. 
 
