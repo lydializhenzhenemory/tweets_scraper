@@ -21,4 +21,4 @@ The following datasets were used in this project:
 ## Most Updated Scraped Dataset
 
 The most recently scraped dataset can be accessed via the following link:
--  Black Lives Matter dataset: [Updated Scraped Dataset](https://drive.google.com/file/d/153ums59CvuVloWp6QdVObXMKeNlz1WlJ/view?usp=sharing)
+-  Black Lives Matter dataset: [BLM](https://drive.google.com/file/d/153ums59CvuVloWp6QdVObXMKeNlz1WlJ/view?usp=sharing)
