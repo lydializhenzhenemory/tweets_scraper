@@ -153,7 +153,7 @@ def append_error_ids_to_csv(error_ids: list, file_name: str):
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 if __name__ == "__main__":
-    tweet_ids = read_tweet_ids_from_csv('BLM/2020-05.csv')
+    tweet_ids = read_tweet_ids_from_csv('BLM/2020-05-1.csv')
 
     all_tweet_data = []
     error_ids = []
