@@ -22,3 +22,5 @@ The following datasets were used in this project:
 
 The most recently scraped dataset can be accessed via the following link:
 -  Black Lives Matter: [BLM](https://drive.google.com/file/d/153ums59CvuVloWp6QdVObXMKeNlz1WlJ/view?usp=sharing)
+-  2020 Election: [202Election](https://drive.google.com/file/d/1p_gHWS-_YiqZPCtCrUUEHjc4IdziwQ7C/view?usp=share_link)
+-  Covid19 Vaccine: [Covid19_Vaccine](https://drive.google.com/file/d/1dx01YNdkSqrtDecCuhyQtY3KWrNRzFm2/view?usp=share_link)
